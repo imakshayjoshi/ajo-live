@@ -1,0 +1,1 @@
+{"streams": [{"url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8", "name": "AJO Live", "description": "Legislative", "behaviorHints": {"isLive": true, "notWebReady": false}}]}

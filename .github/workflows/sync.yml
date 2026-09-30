@@ -1,0 +1,34 @@
+name: Sync channels
+
+on:
+  schedule:
+    - cron: "13 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-channels
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate addon
+        run: python3 generate_addon.py addon
+
+      - name: Commit changes
+        run: |
+          git config user.name "ajo-sync"
+          git config user.email "actions@github.com"
+          git add addon/
+          if git diff --cached --quiet; then
+            echo "No channel changes."
+          else
+            git commit -m "sync: refresh channels $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

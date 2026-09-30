@@ -1,0 +1,164 @@
+{
+ "id": "com.ajo.live",
+ "version": "1.0.0",
+ "name": "AJO Live",
+ "description": "AJO live TV: Indian, sports, news, movies, kids - 2080 channels",
+ "logo": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
+ "background": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
+ "types": [
+  "channel"
+ ],
+ "resources": [
+  "catalog",
+  "meta",
+  "stream"
+ ],
+ "idPrefixes": [],
+ "catalogs": [
+  {
+   "type": "channel",
+   "id": "live",
+   "name": "All Channels"
+  },
+  {
+   "type": "channel",
+   "id": "cat-general",
+   "name": "General"
+  },
+  {
+   "type": "channel",
+   "id": "cat-news",
+   "name": "News"
+  },
+  {
+   "type": "channel",
+   "id": "cat-entertainment",
+   "name": "Entertainment"
+  },
+  {
+   "type": "channel",
+   "id": "cat-religious",
+   "name": "Religious"
+  },
+  {
+   "type": "channel",
+   "id": "cat-movies",
+   "name": "Movies"
+  },
+  {
+   "type": "channel",
+   "id": "cat-series",
+   "name": "Series"
+  },
+  {
+   "type": "channel",
+   "id": "cat-music",
+   "name": "Music"
+  },
+  {
+   "type": "channel",
+   "id": "cat-sports",
+   "name": "Sports"
+  },
+  {
+   "type": "channel",
+   "id": "cat-documentary",
+   "name": "Documentary"
+  },
+  {
+   "type": "channel",
+   "id": "cat-legislative",
+   "name": "Legislative"
+  },
+  {
+   "type": "channel",
+   "id": "cat-kids",
+   "name": "Kids"
+  },
+  {
+   "type": "channel",
+   "id": "cat-comedy",
+   "name": "Comedy"
+  },
+  {
+   "type": "channel",
+   "id": "cat-education",
+   "name": "Education"
+  },
+  {
+   "type": "channel",
+   "id": "cat-classic",
+   "name": "Classic"
+  },
+  {
+   "type": "channel",
+   "id": "cat-lifestyle",
+   "name": "Lifestyle"
+  },
+  {
+   "type": "channel",
+   "id": "cat-animation",
+   "name": "Animation"
+  },
+  {
+   "type": "channel",
+   "id": "cat-culture",
+   "name": "Culture"
+  },
+  {
+   "type": "channel",
+   "id": "cat-business",
+   "name": "Business"
+  },
+  {
+   "type": "channel",
+   "id": "cat-cooking",
+   "name": "Cooking"
+  },
+  {
+   "type": "channel",
+   "id": "cat-outdoor",
+   "name": "Outdoor"
+  },
+  {
+   "type": "channel",
+   "id": "cat-shop",
+   "name": "Shop"
+  },
+  {
+   "type": "channel",
+   "id": "cat-travel",
+   "name": "Travel"
+  },
+  {
+   "type": "channel",
+   "id": "cat-in2",
+   "name": "in2"
+  },
+  {
+   "type": "channel",
+   "id": "cat-auto",
+   "name": "Auto"
+  },
+  {
+   "type": "channel",
+   "id": "cat-family",
+   "name": "Family"
+  },
+  {
+   "type": "channel",
+   "id": "cat-relax",
+   "name": "Relax"
+  },
+  {
+   "type": "channel",
+   "id": "cat-weather",
+   "name": "Weather"
+  },
+  {
+   "type": "channel",
+   "id": "cat-science",
+   "name": "Science"
+  }
+ ]
+}
