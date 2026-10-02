@@ -2,7 +2,7 @@
  "id": "com.ajo.live",
  "version": "1.0.0",
  "name": "AJO Live",
- "description": "AJO live TV: Indian, sports, news, movies, kids - 2004 channels",
+ "description": "AJO live TV: Indian, sports, news, movies, kids - 1979 channels",
  "logo": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "background": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "types": [
@@ -102,23 +102,23 @@
   },
   {
    "type": "channel",
-   "id": "cat-culture",
-   "name": "Culture"
-  },
-  {
-   "type": "channel",
    "id": "cat-business",
    "name": "Business"
   },
   {
    "type": "channel",
-   "id": "cat-cooking",
-   "name": "Cooking"
+   "id": "cat-culture",
+   "name": "Culture"
   },
   {
    "type": "channel",
    "id": "cat-outdoor",
    "name": "Outdoor"
+  },
+  {
+   "type": "channel",
+   "id": "cat-cooking",
+   "name": "Cooking"
   },
   {
    "type": "channel",
