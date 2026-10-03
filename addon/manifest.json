@@ -2,7 +2,7 @@
  "id": "com.ajo.live",
  "version": "1.0.0",
  "name": "AJO Live",
- "description": "AJO live TV: Indian, sports, news, movies, kids - 1945 channels",
+ "description": "AJO live TV: Indian, sports, news, movies, kids - 1837 channels",
  "logo": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "background": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "types": [
@@ -47,13 +47,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-series",
-   "name": "Series"
+   "id": "cat-music",
+   "name": "Music"
   },
   {
    "type": "channel",
-   "id": "cat-music",
-   "name": "Music"
+   "id": "cat-series",
+   "name": "Series"
   },
   {
    "type": "channel",
@@ -77,13 +77,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-comedy",
-   "name": "Comedy"
+   "id": "cat-education",
+   "name": "Education"
   },
   {
    "type": "channel",
-   "id": "cat-education",
-   "name": "Education"
+   "id": "cat-comedy",
+   "name": "Comedy"
   },
   {
    "type": "channel",
@@ -94,11 +94,6 @@
    "type": "channel",
    "id": "cat-lifestyle",
    "name": "Lifestyle"
-  },
-  {
-   "type": "channel",
-   "id": "cat-animation",
-   "name": "Animation"
   },
   {
    "type": "channel",
@@ -117,8 +112,8 @@
   },
   {
    "type": "channel",
-   "id": "cat-cooking",
-   "name": "Cooking"
+   "id": "cat-animation",
+   "name": "Animation"
   },
   {
    "type": "channel",
@@ -127,18 +122,23 @@
   },
   {
    "type": "channel",
+   "id": "cat-cooking",
+   "name": "Cooking"
+  },
+  {
+   "type": "channel",
    "id": "cat-travel",
    "name": "Travel"
   },
   {
    "type": "channel",
-   "id": "cat-auto",
-   "name": "Auto"
+   "id": "cat-family",
+   "name": "Family"
   },
   {
    "type": "channel",
-   "id": "cat-family",
-   "name": "Family"
+   "id": "cat-auto",
+   "name": "Auto"
   },
   {
    "type": "channel",
