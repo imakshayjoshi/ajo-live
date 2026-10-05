@@ -2,7 +2,7 @@
  "id": "com.ajo.live",
  "version": "1.0.0",
  "name": "AJO Live",
- "description": "AJO live TV: Indian, sports, news, movies, kids - 1774 channels",
+ "description": "AJO live TV: Indian, sports, news, movies, kids - 1658 channels",
  "logo": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "background": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "types": [
@@ -52,23 +52,23 @@
   },
   {
    "type": "channel",
-   "id": "cat-series",
-   "name": "Series"
-  },
-  {
-   "type": "channel",
    "id": "cat-sports",
    "name": "Sports"
   },
   {
    "type": "channel",
-   "id": "cat-documentary",
-   "name": "Documentary"
+   "id": "cat-series",
+   "name": "Series"
   },
   {
    "type": "channel",
    "id": "cat-legislative",
    "name": "Legislative"
+  },
+  {
+   "type": "channel",
+   "id": "cat-documentary",
+   "name": "Documentary"
   },
   {
    "type": "channel",
@@ -87,13 +87,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-classic",
-   "name": "Classic"
+   "id": "cat-lifestyle",
+   "name": "Lifestyle"
   },
   {
    "type": "channel",
-   "id": "cat-lifestyle",
-   "name": "Lifestyle"
+   "id": "cat-classic",
+   "name": "Classic"
   },
   {
    "type": "channel",
@@ -112,13 +112,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-animation",
-   "name": "Animation"
+   "id": "cat-shop",
+   "name": "Shop"
   },
   {
    "type": "channel",
-   "id": "cat-shop",
-   "name": "Shop"
+   "id": "cat-animation",
+   "name": "Animation"
   },
   {
    "type": "channel",
@@ -127,13 +127,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-travel",
-   "name": "Travel"
+   "id": "cat-family",
+   "name": "Family"
   },
   {
    "type": "channel",
-   "id": "cat-family",
-   "name": "Family"
+   "id": "cat-travel",
+   "name": "Travel"
   },
   {
    "type": "channel",
