@@ -2,7 +2,7 @@
  "id": "com.ajo.live",
  "version": "1.0.0",
  "name": "AJO Live",
- "description": "AJO live TV: Indian, sports, news, movies, kids - 1658 channels",
+ "description": "AJO live TV: Indian, sports, news, movies, kids - 1519 channels",
  "logo": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "background": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "types": [
@@ -32,18 +32,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-entertainment",
-   "name": "Entertainment"
-  },
-  {
-   "type": "channel",
    "id": "cat-religious",
    "name": "Religious"
   },
   {
    "type": "channel",
-   "id": "cat-movies",
-   "name": "Movies"
+   "id": "cat-entertainment",
+   "name": "Entertainment"
   },
   {
    "type": "channel",
@@ -52,13 +47,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-sports",
-   "name": "Sports"
+   "id": "cat-movies",
+   "name": "Movies"
   },
   {
    "type": "channel",
-   "id": "cat-series",
-   "name": "Series"
+   "id": "cat-sports",
+   "name": "Sports"
   },
   {
    "type": "channel",
@@ -72,28 +67,23 @@
   },
   {
    "type": "channel",
-   "id": "cat-kids",
-   "name": "Kids"
-  },
-  {
-   "type": "channel",
    "id": "cat-education",
    "name": "Education"
   },
   {
    "type": "channel",
-   "id": "cat-comedy",
-   "name": "Comedy"
+   "id": "cat-series",
+   "name": "Series"
+  },
+  {
+   "type": "channel",
+   "id": "cat-kids",
+   "name": "Kids"
   },
   {
    "type": "channel",
    "id": "cat-lifestyle",
    "name": "Lifestyle"
-  },
-  {
-   "type": "channel",
-   "id": "cat-classic",
-   "name": "Classic"
   },
   {
    "type": "channel",
@@ -107,8 +97,18 @@
   },
   {
    "type": "channel",
+   "id": "cat-comedy",
+   "name": "Comedy"
+  },
+  {
+   "type": "channel",
    "id": "cat-outdoor",
    "name": "Outdoor"
+  },
+  {
+   "type": "channel",
+   "id": "cat-classic",
+   "name": "Classic"
   },
   {
    "type": "channel",
