@@ -2,7 +2,7 @@
  "id": "com.ajo.live",
  "version": "1.0.0",
  "name": "AJO Live",
- "description": "AJO live TV: Indian, sports, news, movies, kids - 1476 channels",
+ "description": "AJO live TV: Indian, sports, news, movies, kids - 1471 channels",
  "logo": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "background": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "types": [
@@ -102,13 +102,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-outdoor",
-   "name": "Outdoor"
+   "id": "cat-classic",
+   "name": "Classic"
   },
   {
    "type": "channel",
-   "id": "cat-classic",
-   "name": "Classic"
+   "id": "cat-outdoor",
+   "name": "Outdoor"
   },
   {
    "type": "channel",
