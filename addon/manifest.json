@@ -2,7 +2,7 @@
  "id": "com.ajo.live",
  "version": "1.0.0",
  "name": "AJO Live",
- "description": "AJO live TV: Indian, sports, news, movies, kids - 1352 channels",
+ "description": "AJO live TV: Indian, sports, news, movies, kids - 1347 channels",
  "logo": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "background": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "types": [
@@ -47,13 +47,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-sports",
-   "name": "Sports"
+   "id": "cat-movies",
+   "name": "Movies"
   },
   {
    "type": "channel",
-   "id": "cat-movies",
-   "name": "Movies"
+   "id": "cat-sports",
+   "name": "Sports"
   },
   {
    "type": "channel",
