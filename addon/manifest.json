@@ -2,7 +2,7 @@
  "id": "com.ajo.live",
  "version": "1.0.0",
  "name": "AJO Live",
- "description": "AJO live TV: Indian, sports, news, movies, kids - 1334 channels",
+ "description": "AJO live TV: Indian, sports, news, movies, kids - 1315 channels",
  "logo": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "background": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "types": [
@@ -57,13 +57,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-legislative",
-   "name": "Legislative"
+   "id": "cat-documentary",
+   "name": "Documentary"
   },
   {
    "type": "channel",
-   "id": "cat-documentary",
-   "name": "Documentary"
+   "id": "cat-legislative",
+   "name": "Legislative"
   },
   {
    "type": "channel",
@@ -97,11 +97,6 @@
   },
   {
    "type": "channel",
-   "id": "cat-culture",
-   "name": "Culture"
-  },
-  {
-   "type": "channel",
    "id": "cat-outdoor",
    "name": "Outdoor"
   },
@@ -114,6 +109,11 @@
    "type": "channel",
    "id": "cat-classic",
    "name": "Classic"
+  },
+  {
+   "type": "channel",
+   "id": "cat-culture",
+   "name": "Culture"
   },
   {
    "type": "channel",
