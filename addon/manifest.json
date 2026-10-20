@@ -2,7 +2,7 @@
  "id": "com.ajo.live",
  "version": "1.0.0",
  "name": "AJO Live",
- "description": "AJO live TV: Indian, sports, news, movies, kids - 1295 channels",
+ "description": "AJO live TV: Indian, sports, news, movies, kids - 1292 channels",
  "logo": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "background": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "types": [
@@ -92,13 +92,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-comedy",
-   "name": "Comedy"
+   "id": "cat-outdoor",
+   "name": "Outdoor"
   },
   {
    "type": "channel",
-   "id": "cat-outdoor",
-   "name": "Outdoor"
+   "id": "cat-comedy",
+   "name": "Comedy"
   },
   {
    "type": "channel",
@@ -142,11 +142,6 @@
   },
   {
    "type": "channel",
-   "id": "cat-relax",
-   "name": "Relax"
-  },
-  {
-   "type": "channel",
    "id": "cat-in2",
    "name": "in2"
   },
@@ -154,6 +149,11 @@
    "type": "channel",
    "id": "cat-weather",
    "name": "Weather"
+  },
+  {
+   "type": "channel",
+   "id": "cat-relax",
+   "name": "Relax"
   },
   {
    "type": "channel",
