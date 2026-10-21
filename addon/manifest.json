@@ -2,7 +2,7 @@
  "id": "com.ajo.live",
  "version": "1.0.0",
  "name": "AJO Live",
- "description": "AJO live TV: Indian, sports, news, movies, kids - 1283 channels",
+ "description": "AJO live TV: Indian, sports, news, movies, kids - 1276 channels",
  "logo": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "background": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "types": [
@@ -62,13 +62,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-legislative",
-   "name": "Legislative"
+   "id": "cat-education",
+   "name": "Education"
   },
   {
    "type": "channel",
-   "id": "cat-education",
-   "name": "Education"
+   "id": "cat-legislative",
+   "name": "Legislative"
   },
   {
    "type": "channel",
