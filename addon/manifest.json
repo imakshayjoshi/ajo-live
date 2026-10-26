@@ -2,7 +2,7 @@
  "id": "com.ajo.live",
  "version": "1.0.0",
  "name": "AJO Live",
- "description": "AJO live TV: Indian, sports, news, movies, kids - 1231 channels",
+ "description": "AJO live TV: Indian, sports, news, movies, kids - 1229 channels",
  "logo": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "background": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "types": [
@@ -32,13 +32,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-entertainment",
-   "name": "Entertainment"
+   "id": "cat-religious",
+   "name": "Religious"
   },
   {
    "type": "channel",
-   "id": "cat-religious",
-   "name": "Religious"
+   "id": "cat-entertainment",
+   "name": "Entertainment"
   },
   {
    "type": "channel",
