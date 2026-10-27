@@ -2,7 +2,7 @@
  "id": "com.ajo.live",
  "version": "1.0.0",
  "name": "AJO Live",
- "description": "AJO live TV: Indian, sports, news, movies, kids - 1225 channels",
+ "description": "AJO live TV: Indian, sports, news, movies, kids - 1183 channels",
  "logo": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "background": "https://raw.githubusercontent.com/imakshayjoshi/ajo-live/main/addon/logo.png",
  "types": [
@@ -57,13 +57,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-documentary",
-   "name": "Documentary"
+   "id": "cat-education",
+   "name": "Education"
   },
   {
    "type": "channel",
-   "id": "cat-education",
-   "name": "Education"
+   "id": "cat-documentary",
+   "name": "Documentary"
   },
   {
    "type": "channel",
@@ -107,13 +107,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-culture",
-   "name": "Culture"
+   "id": "cat-classic",
+   "name": "Classic"
   },
   {
    "type": "channel",
-   "id": "cat-classic",
-   "name": "Classic"
+   "id": "cat-culture",
+   "name": "Culture"
   },
   {
    "type": "channel",
@@ -142,13 +142,13 @@
   },
   {
    "type": "channel",
-   "id": "cat-in2",
-   "name": "in2"
+   "id": "cat-relax",
+   "name": "Relax"
   },
   {
    "type": "channel",
-   "id": "cat-relax",
-   "name": "Relax"
+   "id": "cat-in2",
+   "name": "in2"
   },
   {
    "type": "channel",
